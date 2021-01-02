@@ -2,7 +2,7 @@
 
 Ini adalah tampilan awal applikasinya
 ![Cuplikan layar dari 2021-01-02 11-49-59](https://user-images.githubusercontent.com/56226681/103450995-e69f6580-4cf0-11eb-9cb6-1e044828ef52.png)
-tampilan sesusah mengetik url
+tampilan sesudah mengetik url
 ![Cuplikan layar dari 2021-01-02 11-50-08](https://user-images.githubusercontent.com/56226681/103450990-d4252c00-4cf0-11eb-8bfe-9db06ab2f047.png)
 tampilan website yang sudah dituju
 ![Cuplikan layar dari 2021-01-02 11-50-22](https://user-images.githubusercontent.com/56226681/103450991-d5eeef80-4cf0-11eb-894f-125f572794a0.png)
